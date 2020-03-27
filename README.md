@@ -1,4 +1,4 @@
-# HACKNTU 2016
+## HACKNTU 2016
 
 team: 49
 members: Raymond Cheng, 蕭志軒, Hsinhao Huang, Te Yu Huang, 王宇哲
